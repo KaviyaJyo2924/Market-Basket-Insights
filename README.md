@@ -27,7 +27,7 @@ II.	Action: Identify significant patterns, such as product combinations frequent
 I.	Representations: Create visualizations to present the discovered associations and insights.
 II.	Tools: Use visualization libraries like Matplotlib or Seaborn in Python. Generate graphs such as network diagrams to visualize relationships between products. Utilize bar charts or word clouds to display frequently co-occurring products.
 
-Business Recommendations:
+6.Business Recommendations:
 
 I.	Analysis: Provide actionable recommendations for the retail business based on the insights.
 II.	Suggestions: Recommend strategies such as bundling frequently co-occurring products, optimizing product placements in stores, or creating targeted marketing campaigns. Advise on inventory management based on popular product combinations.
